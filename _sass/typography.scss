@@ -41,7 +41,7 @@
         width: $image-size;
         position: relative;
         margin: -20px 0 0 15px;
-        float: right;
+        float: top;
         border-radius: 10%;
         p & {
             padding: 0;
@@ -56,10 +56,5 @@
     img {
         text-align: center;
         width: 100%;
-    }
-    .about-me-container {
-        display: flex; /* Use flexbox for alignment */
-        align-items: center; /* Vertically center align items */
-        margin-bottom: 20px; /* Optional: spacing below the container */
     }
 }
