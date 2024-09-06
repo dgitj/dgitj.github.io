@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [david dot jin@kit.edu](mailto:dj@xyz.com)
+* Email: [david dot jin@kit.edu]
 
 * LinkedIn:
 
