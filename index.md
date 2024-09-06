@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="edinburgh_david.jpg">
+<img class="profile-picture" src="edinburgh_david.jpg" style="width 300px; height: auto;">
 
 Hi! I am a PhD student of Computer Science at Karlsruhe Institute of Technology.
 
@@ -19,12 +19,6 @@ My research concerns the development of robust collaborative and distributed mac
 1. Jin, Kannengiesser, Rank, and Sunyaev: Collaborative Distributed Machine Learning
 2. Jin, Kannengiesser, Sturm, and Sunyaev: Tackling Challenges of Robustness Measures in Open Multi-Agent Systems
 
-
----
-
-Here is a blockquote
-
-> Let deeds match words.
 
 ## Projects
 
