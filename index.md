@@ -5,12 +5,12 @@ layout: default
 
 
 <img class="profile-picture" src="edinburgh_david.jpg">
- Hi! I am a PhD student of Computer Science at Karlsruhe Institute of Technology and research associate at KASTEL Security Research Labs.
+ Hi! I am a PhD student in Computer Science at Karlsruhe Institute of Technology and research associate at KASTEL Security Research Labs.
 
 
 ## Research Interest
 
-My research concerns the development of robust collaborative and distributed machine learning systems.
+My research focuses on building robust and scalable collaborative and distributed machine learning systems. I am particularly interested in how theoretical advancements can have real-world impact in areas like personalized healthcare and drug development.
 
 
 ## Selected Publications
