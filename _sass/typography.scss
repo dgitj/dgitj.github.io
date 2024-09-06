@@ -40,16 +40,16 @@
         height: $image-size;
         width: $image-size;
         position: relative;
-        margin: -20px 0 0 15px;
+        margin: 0;
         float: top;
-        border-radius: 10%;
+        border-radius: 50%;
         p & {
             padding: 0;
             margin: 0;
         }
         @media (max-width: $small-width) {
             img {
-                margin-top: -5px;
+                margin-top: 5px;
             }
         }
     }
