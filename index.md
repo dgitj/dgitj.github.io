@@ -12,22 +12,22 @@ layout: default
 
 In my research, I explore ways to enhance collaboration in the development and use of machine learning models.
 
-Specifically, I focuse on building robust and scalable collaborative and distributed machine learning systems that help individuals and organizations address training data scarcity. I am particularly interested in how theoretical advancements in this field can have real-world impact in areas like personalized healthcare and drug development.
+Specifically, I focuse on building robust and scalable collaborative and distributed machine learning systems that help individuals and organizations address training data scarcity. 
+
+I am particularly interested in how theoretical advancements in this field can have real-world impact in areas like personalized healthcare and drug development.
 
 Beyond research, I have a wide range of interests including animals, finance, fungi, plants, running, and tennis. I’m
 always open to learning more. Feel free to reach out if you'd like to connect!
 
+---
+
+> "Even top-ranked tennis players win barely more than half of the points they play. When you lose every second point, on average, you learn not to dwell on every shot." 
+> Roger Federer
 
 ## Selected Publications
 
 1. Jin, Kannengiesser, Rank, and Sunyaev: Collaborative Distributed Machine Learning
 2. Jin, Kannengiesser, Sturm, and Sunyaev: Tackling Challenges of Robustness Measures in Open Multi-Agent Systems
-
----
-
-> "The best in the world are not the best because they win every point...It's because they know they'll lose...again and again.. and have learned how to deal with it."
-
-Roger Federer
 
 ## Projects
 1. SlenDefence
