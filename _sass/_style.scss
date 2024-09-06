@@ -74,8 +74,8 @@ hr {
 
 /* Institute Image */
 .profile-picture {
-    width: 700px;    // Adjust width
-    height: auto;    // Maintain aspect ratio
+    width: 700px    !important;
+    height: auto    !important; // Maintain aspect ratio
   }
 
 #ins-logo {
