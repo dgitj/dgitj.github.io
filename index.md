@@ -23,6 +23,9 @@ always open to learning more. Feel free to reach out if you'd like to connect!
 1. Jin, Kannengiesser, Rank, and Sunyaev: Collaborative Distributed Machine Learning
 2. Jin, Kannengiesser, Sturm, and Sunyaev: Tackling Challenges of Robustness Measures in Open Multi-Agent Systems
 
+---
+
+> The best in the world are not the best because they win every point...It's because they know they'll lose...again and again.. and have learned how to deal with it. Roger Federer
 
 ## Projects
 1. SlenDefence

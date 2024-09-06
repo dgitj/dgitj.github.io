@@ -6,13 +6,13 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: no
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: yes
+footer_text: "Page design by Ankit Sultana adapted by David Jin"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
-   link: "contact"
+  - name: "Contact"
+    link: "contact"
