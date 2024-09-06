@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="edinburgh_david.jpg" style="width: 150px; height: auto;">
+<img class="profile-picture" src="edinburgh_david.jpg">
 
 Hi! I am a PhD student of Computer Science at Karlsruhe Institute of Technology.
 
