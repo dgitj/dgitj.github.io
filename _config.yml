@@ -7,7 +7,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_text: "Page design by Ankit Sultana adapted by David Jin"
+footer_text: "Template designed by Ankit Sultana and adapted by David Jin"
 
 sass:
     style: compressed

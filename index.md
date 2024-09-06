@@ -32,6 +32,8 @@ always open to learning more. Feel free to reach out if you'd like to connect!
 1. Jin, Kannengiesser, Rank, and Sunyaev: Collaborative Distributed Machine Learning
 2. Jin, Kannengiesser, Sturm, and Sunyaev: Tackling Challenges of Robustness Measures in Open Multi-Agent Systems
 
+---
+
 ## Projects
 1. SlenDefence
 2. ReinforcementLearning4Energy
