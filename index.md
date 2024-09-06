@@ -5,7 +5,7 @@ layout: default
 
 
 <img class="profile-picture" src="edinburgh_david.jpg">
- Hi! I am a PhD student of Computer Science at Karlsruhe Institute of Technology and Research Associate at KASTEL Security Research Labs.
+ Hi! I am a PhD student of Computer Science at Karlsruhe Institute of Technology and research associate at KASTEL Security Research Labs.
 
 
 ## Research Interest
