@@ -13,7 +13,7 @@ layout: default
 My research concerns the development of robust collaborative and distributed machine learning systems.
 
 
-## Publications
+## Selected Publications
 
 1. Jin, Kannengiesser, Rank, and Sunyaev: Collaborative Distributed Machine Learning
 2. Jin, Kannengiesser, Sturm, and Sunyaev: Tackling Challenges of Robustness Measures in Open Multi-Agent Systems
