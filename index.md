@@ -10,18 +10,10 @@ layout: default
 
 ## Research Interest
 
-My research focuses on building robust and scalable collaborative and distributed machine learning (ML) systems. This includes areas such as confidentiality and privacy-preserving ML, agent-based modeling, and decentralization in ML. I am particularly interested in how theoretical advancements in these fields can have real-world impact in areas like personalized healthcare and drug development.
+My research focuses on building robust and scalable collaborative and distributed machine learning (ML) systems that can help individuals to address training data scarcity issues in training ML models. I am particularly interested in how theoretical advancements in these fields can have real-world impact in areas like personalized healthcare and drug development.
 
-## General Interest
-
-- Tennis
-- Running
-- Deep-sea biology
-- Fungi
-- Finance
-- ...
-
-I have a broad range of interests and am always open to learning more. Feel free to reach out if you'd like to connect!
+Beyond research, I have a wide range of interests including animals, finance, fungi and plants, oceanography, running, and tennis. I’m
+always open to learning more. Feel free to reach out if you'd like to connect!
 
 
 ## Selected Publications
