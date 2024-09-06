@@ -5,6 +5,9 @@ layout: default
 
 
 <img class="profile-picture" src="edinburgh_david.jpg">
+
+---
+
  Hi! I am a PhD student in computer science at Karlsruhe Institute of Technology and research associate at KASTEL Security Research Labs.
 
 ---
