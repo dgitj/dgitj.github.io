@@ -3,12 +3,10 @@ layout: default
 ---
 
 
-<div class="about-me-container">
-    <img class="profile-picture" src="edinburgh_david.jpg">
-     <div class="about-me-text">
-    Hi! I am a PhD student of Computer Science at Karlsruhe Institute of Technology.
-  </div>
-</div>
+
+<img class="profile-picture" src="edinburgh_david.jpg">
+ Hi! I am a PhD student of Computer Science at Karlsruhe Institute of Technology and Research Associate at KASTEL Security Research Labs.
+
 
 
 ## Research Interest
