@@ -22,6 +22,7 @@ always open to learning more. Feel free to reach out if you'd like to connect!
 ---
 
 > "Even top-ranked tennis players win barely more than half of the points they play. When you lose every second point, on average, you learn not to dwell on every shot." 
+>
 > Roger Federer
 
 ## Selected Publications
