@@ -1,6 +1,4 @@
 title: Researcher
-url: "https://dgitj.github.io/"
-baseurl: ""
 remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
