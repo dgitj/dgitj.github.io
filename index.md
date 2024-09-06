@@ -8,11 +8,11 @@ layout: default
  Hi! I am a PhD student in Computer Science at Karlsruhe Institute of Technology and research associate at KASTEL Security Research Labs.
 
 
-## Research Interest
+## Interests
 
-My research focuses on building robust and scalable collaborative and distributed machine learning (ML) systems that can help individuals to address training data scarcity issues in training ML models. I am particularly interested in how theoretical advancements in these fields can have real-world impact in areas like personalized healthcare and drug development.
+My research focuses on building robust and scalable collaborative and distributed machine learning (ML) systems that help individuals and organizations address training data scarcity in the development and use of ML models. I am particularly interested in how theoretical advancements in these fields can have real-world impact in areas like personalized healthcare and drug development.
 
-Beyond research, I have a wide range of interests including animals, finance, fungi and plants, oceanography, running, and tennis. I’m
+Beyond research, I have a wide range of interests including animals, finance, fungi, oceanography, plants, running, and tennis. I’m
 always open to learning more. Feel free to reach out if you'd like to connect!
 
 
