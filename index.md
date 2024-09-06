@@ -8,7 +8,6 @@ layout: default
  Hi! I am a PhD student of Computer Science at Karlsruhe Institute of Technology and Research Associate at KASTEL Security Research Labs.
 
 
-
 ## Research Interest
 
 My research concerns the development of robust collaborative and distributed machine learning systems.
@@ -21,4 +20,8 @@ My research concerns the development of robust collaborative and distributed mac
 
 
 ## Projects
+1. SlenDefence
+2. ReinforcementLearning4Energy
+3. DeepLearning4SignLanguage
+4. PayWise
 
