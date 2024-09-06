@@ -87,12 +87,14 @@ hr {
     .container {
         max-width: $med-width;
         transition: 0.3s ease all;
+        padding-bottom: 20px;
     }
 }
 
 @media (max-width: 650px) {
     .container {
         max-width: 83%;
+        padding-bottom: 20px;
     }
     .navbar-ul {
         margin-top: 5px;
@@ -125,6 +127,9 @@ hr {
 	#navlist li.nav-list {
 		margin: 0;
 	}
+    .container {
+        padding-bottom: 20px;
+    }
 }
 
 @import "typography";
