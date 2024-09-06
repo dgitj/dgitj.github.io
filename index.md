@@ -14,7 +14,7 @@ In my research, I explore ways to enhance collaboration in the development and u
 
 Specifically, I focuse on building robust and scalable collaborative and distributed machine learning systems that help individuals and organizations address training data scarcity. I am particularly interested in how theoretical advancements in this field can have real-world impact in areas like personalized healthcare and drug development.
 
-Beyond research, I have a wide range of interests including animals, finance, fungi, oceanography, plants, running, and tennis. I’m
+Beyond research, I have a wide range of interests including animals, finance, fungi, plants, running, and tennis. I’m
 always open to learning more. Feel free to reach out if you'd like to connect!
 
 
@@ -25,7 +25,9 @@ always open to learning more. Feel free to reach out if you'd like to connect!
 
 ---
 
-> The best in the world are not the best because they win every point...It's because they know they'll lose...again and again.. and have learned how to deal with it. Roger Federer
+> "The best in the world are not the best because they win every point...It's because they know they'll lose...again and again.. and have learned how to deal with it."
+
+Roger Federer
 
 ## Projects
 1. SlenDefence
