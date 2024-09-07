@@ -3,11 +3,11 @@ layout: default
 is_contact: true
 ---
 
-* Email: [david dot jin@kit.edu]
+* Email: [david dot jin @ kit dot  edu]
 
 * LinkedIn:
 
-* GitHub:
+* GitHub:https://github.com/dgitj
 
 ---
 
@@ -18,3 +18,6 @@ is_contact: true
 > London
 >
 > United Kingdom
+
+
+

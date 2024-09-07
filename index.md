@@ -6,6 +6,11 @@ layout: default
 
 <img class="profile-picture" src="edinburgh_david.jpg">
 
+
+> "Even top-ranked tennis players win barely more than half of the points they play. When you lose every second point, on average, you learn not to dwell on every shot." 
+>
+> Roger Federer
+
 ---
 
  Hi! I am a PhD student in computer science at Karlsruhe Institute of Technology and research associate at KASTEL Security Research Labs.
@@ -24,9 +29,6 @@ Beyond research, I have a wide range of interests including animals, finance, fu
 always open to learning more. Feel free to reach out if you'd like to connect!
 
 
-> "Even top-ranked tennis players win barely more than half of the points they play. When you lose every second point, on average, you learn not to dwell on every shot." 
->
-> Roger Federer
 
 ---
 
