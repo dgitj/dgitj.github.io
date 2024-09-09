@@ -3,11 +3,10 @@ layout: default
 is_contact: true
 ---
 
-* Email: [david dot jin @ kit dot  edu]
 
-* LinkedIn:
+* LinkedIn:<a href="https://www.linkedin.com/in/your-profile-id" target="_blank">Connect with me on LinkedIn</a>
 
-* GitHub:https://github.com/dgitj
+* <a href="https://github.com/dgitj" target="_blank">Connect with me on Github</a>
 
 ---
 
