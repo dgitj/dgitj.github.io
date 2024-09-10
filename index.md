@@ -15,13 +15,13 @@ I am a PhD student in computer science at <a href="https://www.aifb.kit.edu/engl
 
 ## Interests
 
-In my research, I explore methods to enable collaboration in the development and use of machine learning models.
+In my research, I explore how to enable collaboration in training  and using machine learning models.
 
-Specifically, my work focuses on developing robust and scalable collaborative and distributed machine learning systems—such as federated learning, split learning, and gossip learning—that enable individuals and organizations to address training data scarcity challenges. 
+I focus on developing collaborative and distributed machine learning systems—such as federated, split, and gossip learning—that are robust and scalable to thousands of users. 
 
-I am particularly interested in how theoretical advancements in this field can have real-world impact, for example, in areas like personalized healthcare and drug development.
+I am particularly interested in how theoretical advancements  can translate into impactful real-world applications, for example, in personalized healthcare and drug development.
 
-Beyond research, I am interested in animals, classical music \(I play piano and violine), finance, fungi, plants, and tennis. I am always open to learning more. Feel free to reach out if you'd like to connect!
+Outside of research, I play piano, violine, and tennis. I am also casually interested in finance, fungi, and plants, and enjoy listening to podcasts and read books. I am always open to learning more. Feel free to reach out if you'd like to connect!
 
 ---
 
