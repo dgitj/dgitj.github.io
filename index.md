@@ -15,23 +15,22 @@ I am a PhD student in computer science at <a href="https://www.aifb.kit.edu/engl
 
 ## Interests
 
-In my research, I explore ways to enable collaboration in the development and use of machine learning models.
+In my research, I explore methods to enable collaboration in the development and use of machine learning models.
 
 Specifically, my work focuses on building robust and scalable collaborative and distributed machine learning systems that help individuals and organizations address training data scarcity. 
 
-I am particularly interested in how theoretical advancements in this field can have real-world impact in areas like personalized healthcare and drug development.
+I am particularly interested in how theoretical advancements in this field can have real-world impact, for example, in areas like personalized healthcare and drug development.
 
-Beyond research, I am interested in animals, finance, fungi, plants, running, and tennis. I’m
-always open to learning more. Feel free to reach out if you'd like to connect!
+Beyond research, I am interested in animals, finance, fungi, plants, running, and tennis. I am always open to learning more. Feel free to reach out if you'd like to connect!
 
 ---
 
 ## Selected Publications
 
 1. <a href="https://arxiv.org/abs/2309.16584" target="_blank">Collaborative Distributed Machine Learning</a><br>
-<i>Jin, Kannengiesser, Rank, and Sunyaev</i>
+<i>Jin, Kannengießer, Rank, and Sunyaev</i>
 2. <a href="https://publikationen.bibliothek.kit.edu/1000137879" target="_blank">Tackling Challenges of Robustness Measures in Open Multi-Agent Systems</a><br>
-<i>Jin, Kannengiesser, Sturm, and Sunyaev</i>
+<i>Jin, Kannengießer, Sturm, and Sunyaev</i>
 
 ---
 
