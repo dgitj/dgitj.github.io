@@ -9,13 +9,13 @@ layout: default
 
 ---
 
- Hi! I am a PhD student in computer science at Karlsruhe Institute of Technology and research associate at KASTEL Security Research Labs.
+I am a PhD student in computer science at Karlsruhe Institute of Technology and research associate at KASTEL Security Research Labs.
 
 ---
 
 ## Interests
 
-In my research, I explore ways to enhance collaboration in the development and use of machine learning models.
+In my research, I explore ways to enable collaboration in the development and use of machine learning models.
 
 Specifically, my work focuses on building robust and scalable collaborative and distributed machine learning systems that help individuals and organizations address training data scarcity. 
 
