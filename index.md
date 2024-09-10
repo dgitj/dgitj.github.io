@@ -30,9 +30,10 @@ always open to learning more. Feel free to reach out if you'd like to connect!
 
 ## Selected Publications
 
-1. <a href="https://arxiv.org/abs/2309.16584" target="_blank">Jin, Kannengiesser, Rank, and Sunyaev: Collaborative Distributed Machine Learning</a>
-2. <a href="https://publikationen.bibliothek.kit.edu/1000137879" target="_blank">Jin, Kannengiesser, Sturm, and Sunyaev: Tackling Challenges of Robustness Measures in Open Multi-Agent Systems</a>
-
+1. <a href="https://arxiv.org/abs/2309.16584" target="_blank">Collaborative Distributed Machine Learning</a>
+Jin, Kannengiesser, Rank, and Sunyaev
+2. <a href="https://publikationen.bibliothek.kit.edu/1000137879" target="_blank">Tackling Challenges of Robustness Measures in Open Multi-Agent Systems</a>
+Jin, Kannengiesser, Sturm, and Sunyaev 
 ---
 
 ## Projects
