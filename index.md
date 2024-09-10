@@ -4,12 +4,12 @@ layout: default
 
 
 
-<img class="profile-picture" src="edinburgh_david.jpg">
+<img class="profile-picture" src="edinburgh_david2.jpg">
 
 
 ---
 
-Hi! I am a PhD student in computer science at <a href="https://www.aifb.kit.edu/english/" target="_blank">Karlsruhe Institute of Technology</a> and research associate at <a href="https://kastel-labs.de/" target="_blank">KASTEL Security Research Labs</a>.
+I am a PhD student in computer science at <a href="https://www.aifb.kit.edu/english/" target="_blank">Karlsruhe Institute of Technology</a> and research associate at <a href="https://kastel-labs.de/" target="_blank">KASTEL Security Research Labs</a>.
 
 ---
 
