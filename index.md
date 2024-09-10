@@ -9,7 +9,7 @@ layout: default
 
 ---
 
-Hi! I am a PhD student in computer science at Karlsruhe Institute of Technology and research associate at KASTEL Security Research Labs.
+Hi! I am a PhD student in computer science at <a href="https://www.aifb.kit.edu/english/" target="_blank">Karlsruhe Institute of Technology</a> and research associate at <a href="https://kastel-labs.de/" target="_blank">KASTEL Security Research Labs</a>.
 
 ---
 
