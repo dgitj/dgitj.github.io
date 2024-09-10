@@ -30,8 +30,8 @@ always open to learning more. Feel free to reach out if you'd like to connect!
 
 ## Selected Publications
 
-1. Jin, Kannengiesser, Rank, and Sunyaev: Collaborative Distributed Machine Learning
-2. Jin, Kannengiesser, Sturm, and Sunyaev: Tackling Challenges of Robustness Measures in Open Multi-Agent Systems
+1. <a href="https://arxiv.org/abs/2309.16584" target="_blank">Jin, Kannengiesser, Rank, and Sunyaev: Collaborative Distributed Machine Learning</a>
+2. <a href="https://publikationen.bibliothek.kit.edu/1000137879" target="_blank">Jin, Kannengiesser, Sturm, and Sunyaev: Tackling Challenges of Robustness Measures in Open Multi-Agent Systems</a>
 
 ---
 
@@ -41,8 +41,8 @@ always open to learning more. Feel free to reach out if you'd like to connect!
 3. DeepLearning4SignLanguage
 4. PayWise
 
+---
 
-
-> "Even top-ranked tennis players win barely more than half of the points they play."
+> "Even top-ranked tennis players win barely more than half of the points they play. When you lose every second point, on average, you learn not to dwell on every shot."
 >
 > Roger Federer
