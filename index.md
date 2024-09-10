@@ -21,18 +21,17 @@ Specifically, my work focuses on building robust and scalable collaborative and 
 
 I am particularly interested in how theoretical advancements in this field can have real-world impact in areas like personalized healthcare and drug development.
 
-Beyond research, I have a wide range of interests including animals, finance, fungi, plants, running, and tennis. I’m
+Beyond research, I am interested in animals, finance, fungi, plants, running, and tennis. I’m
 always open to learning more. Feel free to reach out if you'd like to connect!
-
 
 
 ---
 
 ## Selected Publications
 
-1. <a href="https://arxiv.org/abs/2309.16584" target="_blank">Collaborative Distributed Machine Learning</a>
+1. <a href="https://arxiv.org/abs/2309.16584" target="_blank">Collaborative Distributed Machine Learning</a><br>
 Jin, Kannengiesser, Rank, and Sunyaev
-2. <a href="https://publikationen.bibliothek.kit.edu/1000137879" target="_blank">Tackling Challenges of Robustness Measures in Open Multi-Agent Systems</a>
+2. <a href="https://publikationen.bibliothek.kit.edu/1000137879" target="_blank">Tackling Challenges of Robustness Measures in Open Multi-Agent Systems</a><br>
 Jin, Kannengiesser, Sturm, and Sunyaev 
 ---
 
