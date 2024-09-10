@@ -34,11 +34,11 @@ Beyond research, I am interested in animals, classical music \(I play piano and 
 
 ---
 
-## Projects
-1. SlenDefence
-2. ReinforcementLearning4Energy
-3. DeepLearning4SignLanguage
-4. PayWise
+## Personal Projects
+1. <i>SlenDefence:</i> A first-person tower defense game developed using C# and Unity.
+2. <i>ReinforcementLearning4Trikes</i>: Optimizing energy usage in autonomous e-trikes using reinforcement learning algorithms, including Q-learning, deep Q-learning, and actor-critic.
+3. <i>DeepLearning4SignLanguage</i>: Translating sign language into text using convolutional neural networks.
+4. <i>PayWise</i>: A collaborative mobile payment app build with NativeScript.
 
 ---
 
