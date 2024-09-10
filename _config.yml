@@ -7,10 +7,9 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_text: |
-Template designed by Ankit Sultana and adapted by David Jin. 
-* <a href="https://www.linkedin.com/in/david-j-662b25161/" target="_blank">LinkedIn</a>
-* <a href="https://github.com/dgitj" target="_blank">Github</a>
+footer_text: "Template designed by Ankit Sultana and adapted by David Jin."
+#footer_url: <a href="https://www.linkedin.com/in/david-j-662b25161/" target="_blank">LinkedIn</a>
+footer_url: <a href="https://github.com/dgitj" target="_blank">Github</a>"
 
 
 
