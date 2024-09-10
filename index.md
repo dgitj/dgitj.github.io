@@ -9,7 +9,7 @@ layout: default
 
 ---
 
-I am a PhD student in computer science at Karlsruhe Institute of Technology and research associate at KASTEL Security Research Labs.
+Hi! I am a PhD student in computer science at Karlsruhe Institute of Technology and research associate at KASTEL Security Research Labs.
 
 ---
 
@@ -24,15 +24,15 @@ I am particularly interested in how theoretical advancements in this field can h
 Beyond research, I am interested in animals, finance, fungi, plants, running, and tennis. I’m
 always open to learning more. Feel free to reach out if you'd like to connect!
 
-
 ---
 
 ## Selected Publications
 
 1. <a href="https://arxiv.org/abs/2309.16584" target="_blank">Collaborative Distributed Machine Learning</a><br>
-Jin, Kannengiesser, Rank, and Sunyaev
+<i>Jin, Kannengiesser, Rank, and Sunyaev</i>
 2. <a href="https://publikationen.bibliothek.kit.edu/1000137879" target="_blank">Tackling Challenges of Robustness Measures in Open Multi-Agent Systems</a><br>
-Jin, Kannengiesser, Sturm, and Sunyaev 
+<i>Jin, Kannengiesser, Sturm, and Sunyaev</i>
+
 ---
 
 ## Projects
