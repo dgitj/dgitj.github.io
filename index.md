@@ -42,6 +42,6 @@ Outside of research, I play the piano, violine, and tennis. I am also casually i
 
 ---
 
-> "Even top-ranked tennis players win barely more than half of the points they play [54\%]. When you lose every second point, on average, you learn not to dwell on every shot."
+> "Even top-ranked tennis players win barely more than half of the points they play [54%]. When you lose every second point, on average, you learn not to dwell on every shot."
 >
 > Roger Federer
